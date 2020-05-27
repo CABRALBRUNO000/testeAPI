@@ -67,7 +67,7 @@
     "descricao_Oferta": "Almoço e jantar com Rodizio Mexicano delicioso.",
     "anunciante": "Mexicana",
     "valor": 32.90,
-    "destaque": true,
+    "destaque": false,
     "images": [
         {"url": "/assets/cozinhaMexicana.jpg"},
         {"url": "/assets/ofertas/2/img.jpg"},
@@ -82,7 +82,7 @@
     "descricao_Oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
     "anunciante": "Estância das águas",
     "valor": 31.90,
-    "destaque": true,
+    "destaque": false,
     "images": [
         {"url": "/assets/estanciaDasAguas.jpg"},
         {"url": "/assets/ofertas/2/img.jpg"},
