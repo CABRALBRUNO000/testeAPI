@@ -48,10 +48,10 @@
     {    
     "id": 4,
     "categoria": "restaurante",
-    "titulo": "Grande Pizza",
+    "titulo": "Pizzas Grandes",
     "descricao_Oferta": "Rodízio de Pizzas com opção de entrada.",
-    "anunciante": "Grande Piza",
-    "valor": 29.90,
+    "anunciante": "Pizzas Grandes",
+    "valor": 21.90,
     "destaque": true,
     "images": [
         {"url": "/assets/grandePizza.jpg"},
@@ -65,8 +65,8 @@
     "categoria": "diversao",
     "titulo": "Kart Puzile",
     "descricao_Oferta": "karts com mais de 30 minutos de bateria.",
-    "anunciante": "Karts Puzile",
-    "valor": 79.90,
+    "anunciante": "Speed Kart",
+    "valor": 54.90,
     "destaque": true,
     "images": [
         {"url": "/assets/kart.jpg"},
@@ -78,10 +78,10 @@
     {
     "id": 6,
     "categoria": "diversão",
-    "titulo": "Estande de Tiros",
+    "titulo": "Academia de Tiros",
     "descricao_Oferta": "Diversão garantida com instrutores, campos, josgos em diversas modalidades e muito mais.",
-    "anunciante": "Estande de tiros",
-    "valor": 99.90,
+    "anunciante": "academia de tiros",
+    "valor": 98.90,
     "destaque": true,
     "images": [
         {"url": "/assets/estandeTiros.jpg"},
