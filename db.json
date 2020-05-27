@@ -32,12 +32,12 @@
     },
     {
     "id": 3,
-    "categoria": "diversão",
+    "categoria": "diversao",
     "titulo": "Estância das águas",
     "descricao_Oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
     "anunciante": "Estância das águas",
     "valor": 31.90,
-    "destaque": true,
+    "destaque": false,
     "images": [
         {"url": "/assets/estanciaDasAguas.jpg"},
         {"url": "/assets/ofertas/2/img.jpg"},
@@ -48,13 +48,13 @@
     {    
     "id": 4,
     "categoria": "restaurante",
-    "titulo": "Super Burger",
-    "descricao_Oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
-    "anunciante": "Original Burger",
+    "titulo": "Grande Pizza",
+    "descricao_Oferta": "Rodízio de Pizzas com opção de entrada.",
+    "anunciante": "Grande Piza",
     "valor": 29.90,
     "destaque": true,
     "images": [
-        {"url": "/assets/superBurger.jpg"},
+        {"url": "/assets/grandePizza.jpg"},
         {"url": "/assets/ofertas/2/img.jpg"},
         {"url": "/assets/ofertas/3/img.jpg"},
         {"url": "/assets/ofertas/4/img.jpg"}
@@ -62,14 +62,14 @@
     },
     {
     "id": 5,
-    "categoria": "restaurante",
-    "titulo": "Cozinha Mexicana",
-    "descricao_Oferta": "Almoço e jantar com Rodizio Mexicano delicioso.",
-    "anunciante": "Mexicana",
-    "valor": 32.90,
-    "destaque": false,
+    "categoria": "diversao",
+    "titulo": "Kart Puzile",
+    "descricao_Oferta": "karts com mais de 30 minutos de bateria.",
+    "anunciante": "Karts Puzile",
+    "valor": 79.90,
+    "destaque": true,
     "images": [
-        {"url": "/assets/cozinhaMexicana.jpg"},
+        {"url": "/assets/kart.jpg"},
         {"url": "/assets/ofertas/2/img.jpg"},
         {"url": "/assets/ofertas/3/img.jpg"},
         {"url": "/assets/ofertas/4/img.jpg"}
@@ -78,13 +78,13 @@
     {
     "id": 6,
     "categoria": "diversão",
-    "titulo": "Estância das águas",
-    "descricao_Oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
-    "anunciante": "Estância das águas",
-    "valor": 31.90,
-    "destaque": false,
+    "titulo": "Estande de Tiros",
+    "descricao_Oferta": "Diversão garantida com instrutores, campos, josgos em diversas modalidades e muito mais.",
+    "anunciante": "Estande de tiros",
+    "valor": 99.90,
+    "destaque": true,
     "images": [
-        {"url": "/assets/estanciaDasAguas.jpg"},
+        {"url": "/assets/estandeTiros.jpg"},
         {"url": "/assets/ofertas/2/img.jpg"},
         {"url": "/assets/ofertas/3/img.jpg"},
         {"url": "/assets/ofertas/4/img.jpg"}
