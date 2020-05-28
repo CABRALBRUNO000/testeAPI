@@ -10,9 +10,9 @@
     "destaque": true,
     "images": [
         {"url": "/assets/superBurger.jpg"},
-        {"url": "/assets/ofertas/2/img.jpg"},
-        {"url": "/assets/ofertas/3/img.jpg"},
-        {"url": "/assets/ofertas/4/img.jpg"}
+        {"url": "/assets/mini-hamburg1.jpg"},
+        {"url": "/assets/mini-hamburg2.jpg"},
+        {"url": "/assets/mini-hamburg3.jpg"}
     ]
     },
     {
@@ -25,9 +25,9 @@
     "destaque": true,
     "images": [
         {"url": "/assets/cozinhaMexicana.jpg"},
-        {"url": "/assets/ofertas/2/img.jpg"},
-        {"url": "/assets/ofertas/3/img.jpg"},
-        {"url": "/assets/ofertas/4/img.jpg"}
+        {"url": "/assets/mini-cozinhaMexicana1.jpg"},
+        {"url": "/assets/mini-cozinhaMexicana2.jpg"},
+        {"url": "/assets/mini-cozinhaMexicana3.jpg"}
     ]
     },
     {
@@ -40,9 +40,9 @@
     "destaque": false,
     "images": [
         {"url": "/assets/estanciaDasAguas.jpg"},
-        {"url": "/assets/ofertas/2/img.jpg"},
-        {"url": "/assets/ofertas/3/img.jpg"},
-        {"url": "/assets/ofertas/4/img.jpg"}
+        {"url": "/assets/mini-estanciaDasAguas1.jpg"},
+        {"url": "/assets/mini-estanciaDasAguas2.jpg"},
+        {"url": "/assets/mini-estanciaDasAguas3.jpg"}
     ]
     },
     {    
@@ -55,9 +55,9 @@
     "destaque": true,
     "images": [
         {"url": "/assets/grandePizza.jpg"},
-        {"url": "/assets/ofertas/2/img.jpg"},
-        {"url": "/assets/ofertas/3/img.jpg"},
-        {"url": "/assets/ofertas/4/img.jpg"}
+        {"url": "/assets/mini-grandePizza1.jpg"},
+        {"url": "/assets/mini-grandePizza2.jpg"},
+        {"url": "/assets/mini-grandePizza3.jpg"}
     ]
     },
     {
@@ -70,9 +70,9 @@
     "destaque": true,
     "images": [
         {"url": "/assets/kart.jpg"},
-        {"url": "/assets/ofertas/2/img.jpg"},
-        {"url": "/assets/ofertas/3/img.jpg"},
-        {"url": "/assets/ofertas/4/img.jpg"}
+        {"url": "/assets/mini-kart1.jpg"},
+        {"url": "/assets/mini-kart2.jpg"},
+        {"url": "/assets/mini-kart3.jpg"}
     ]
     },
     {
@@ -85,9 +85,9 @@
     "destaque": true,
     "images": [
         {"url": "/assets/estandeTiros.jpg"},
-        {"url": "/assets/ofertas/2/img.jpg"},
-        {"url": "/assets/ofertas/3/img.jpg"},
-        {"url": "/assets/ofertas/4/img.jpg"}
+        {"url": "/assets/mini-estandeTiros1.jpg"},
+        {"url": "/assets/mini-estandeTiros2.jpg"},
+        {"url": "/assets/mini-estandeTiros3.jpg"}
     ]
     }
 ]
